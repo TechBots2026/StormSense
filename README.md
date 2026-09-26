@@ -170,7 +170,7 @@ StormSense/
 ## Step 1 : Clone the Repository
 
 ```bash
-git clone https://github.com/Souvik686/StormSense.git
+git clone https://github.com/TechBots2026/StormSense.git
 cd StormSense
 git lfs pull
 ```
@@ -271,7 +271,7 @@ Three distinct evaluation contexts exist in this repository:
 
 ## Souvik Sarkar
 
-GitHub: https://github.com/Souvik686
+GitHub: https://github.com/TechBots2026
 
 ---
 

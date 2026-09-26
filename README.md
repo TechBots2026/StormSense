@@ -41,8 +41,6 @@ StormSense is deployed and publicly accessible — no local setup required to ex
 
 > **Note:** This is a live deployment running real-time inference against current GFS analyses — dashboard values change as new data arrives. For the guaranteed severe-weather scenario (Cyclone Remal), see [Historical Case Study](#️-historical-case-study-secondary) below.
 
-### 🔗 **[github.com/TechBots2026/StormSense](https://github.com/TechBots2026/StormSense)**
-
 ---
 
 # 📖 Overview

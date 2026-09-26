@@ -22,9 +22,25 @@ StormSense forecasts severe convective weather (thunderstorms, heavy rainfall, f
 
 <div align="center">
 
-**[Overview](#-overview)** · **[Features](#-features)** · **[Tech Stack](#-tech-stack)** · **[Project Structure](#-project-structure)** · **[Installation](#-installation-guide)** · **[Testing](#-testing)** · **[Model & Evaluation](#-model--evaluation-information)** · **[Limitations](#️-limitations)** · **[Security](#-security-notes)**
+**[Live Demo](#-live-demo)** · **[Overview](#-overview)** · **[Features](#-features)** · **[Tech Stack](#-tech-stack)** · **[Project Structure](#-project-structure)** · **[Installation](#-installation-guide)** · **[Testing](#-testing)** · **[Model & Evaluation](#-model--evaluation-information)** · **[Limitations](#️-limitations)** · **[Security](#-security-notes)**
 
 </div>
+
+---
+
+# 🌐 Live Demo
+
+StormSense is deployed and publicly accessible — no local setup required to explore it:
+
+### 🔗 **[stormsense.duckdns.org](https://stormsense.duckdns.org/)**
+
+| Page | Link |
+|---|---|
+| Landing page | https://stormsense.duckdns.org/ |
+| Dashboard | https://stormsense.duckdns.org/dashboard |
+| API Docs | https://stormsense.duckdns.org/docs |
+
+> **Note:** This is a live deployment running real-time inference against current GFS analyses — dashboard values change as new data arrives. For the guaranteed severe-weather scenario (Cyclone Remal), see [Historical Case Study](#️-historical-case-study-secondary) below.
 
 ---
 

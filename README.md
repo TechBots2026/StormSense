@@ -32,8 +32,6 @@ StormSense forecasts severe convective weather (thunderstorms, heavy rainfall, f
 
 StormSense is deployed and publicly accessible — no local setup required to explore it:
 
-### 🔗 **[stormsense.duckdns.org](https://stormsense.duckdns.org/)**
-
 | Page | Link |
 |---|---|
 | Landing page | https://stormsense.duckdns.org/ |

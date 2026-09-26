@@ -38,9 +38,10 @@ StormSense is deployed and publicly accessible — no local setup required to ex
 |---|---|
 | Landing page | https://stormsense.duckdns.org/ |
 | Dashboard | https://stormsense.duckdns.org/dashboard |
-| Repository | https://github.com/TechBots2026/StormSense |
 
 > **Note:** This is a live deployment running real-time inference against current GFS analyses — dashboard values change as new data arrives. For the guaranteed severe-weather scenario (Cyclone Remal), see [Historical Case Study](#️-historical-case-study-secondary) below.
+
+### 🔗 **[github.com/TechBots2026/StormSense](https://github.com/TechBots2026/StormSense)**
 
 ---
 

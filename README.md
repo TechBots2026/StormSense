@@ -282,7 +282,7 @@ Three distinct evaluation contexts exist in this repository:
 
 # 👨‍💻 Author
 
-## Souvik Sarkar
+## Team TechBots 2.0
 
 GitHub: https://github.com/TechBots2026
 

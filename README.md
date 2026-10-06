@@ -113,8 +113,16 @@ The dashboard is organized into 8 views, grouped as **Command Center** (the oper
 ## 🕰️ Historical Case Study (secondary)
 A frozen replay of Cyclone Remal (26 May 2024), using the model's real ERA5-input test-time forecast for that event. Its purpose: when live weather over West Bengal happens to be calm at demo time, this lets you show the model actually detecting a genuine severe-weather event from past data, rather than only an uneventful live feed.
 
-<p align="center"><img src="frontend/static/screenshots/dashboard-historical-remal.png" alt="Historical case study: Cyclone Remal replay" width="85%"></p>
-
+<table>
+<tr>
+<td width="50%"><img src="frontend/static/screenshots/dashboard-historical-remal.png" alt="Historical case study: Cyclone Remal replay"></td>
+<td width="50%"><img src="frontend/static/screenshots/historical-dashboard-live-overview.png" alt="Historical case study: Cyclone Remal replay"></td>
+</tr>
+<tr>
+<td align="center"><sub>Historical case study: current-location AI forecast risk</sub></td>
+<td align="center"><sub>Historical case study: Interactive risk-map</sub></td>
+</tr>
+  
 ---
 
 # 🛠 Tech Stack

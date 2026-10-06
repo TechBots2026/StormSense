@@ -119,7 +119,7 @@ A frozen replay of Cyclone Remal (26 May 2024), using the model's real ERA5-inpu
 <td width="50%"><img src="frontend/static/screenshots/historical-dashboard-live-overview.png" alt="Historical case study: Cyclone Remal replay"></td>
 </tr>
 <tr>
-<td align="center"><sub>Historical case study: current-location AI forecast risk</sub></td>
+<td align="center"><sub>Historical case study: Overall West Bengal AI forecast risk</sub></td>
 <td align="center"><sub>Historical case study: Interactive risk-map</sub></td>
 </tr>
 </table>

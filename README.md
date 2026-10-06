@@ -122,6 +122,7 @@ A frozen replay of Cyclone Remal (26 May 2024), using the model's real ERA5-inpu
 <td align="center"><sub>Historical case study: current-location AI forecast risk</sub></td>
 <td align="center"><sub>Historical case study: Interactive risk-map</sub></td>
 </tr>
+</table>
 
 ---
 
